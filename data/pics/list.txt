@@ -1,0 +1,36 @@
+data/pics/bg.tga
+320 480 0
+data/pics/senukai.tga
+80 64 0
+data/pics/zidrunas.tga
+100 75 1
+data/pics/brat.tga
+64 64 1
+data/pics/door.tga
+113 69 0
+data/pics/gogy.tga
+45 64 1
+data/pics/woof.tga
+55 88 1
+data/pics/weee.tga
+32 64 1
+data/pics/ddrrr.tga
+23 64 1
+data/pics/gameover.tga
+95 128 1
+data/pics/hand.tga
+64 61 1
+data/pics/wave.tga
+52 32 1
+data/pics/slam.tga
+64 108 1
+data/pics/nums.tga
+32 20 1
+data/pics/score.tga
+32 64 1
+data/pics/title.tga
+256 256 1
+data/pics/chars.tga
+16 16 1
+data/pics/menu.tga
+64 240 1
